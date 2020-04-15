@@ -500,17 +500,18 @@ body {
   color: rgba(0, 0, 0, 0.87);
 }
 .monthDayWrapper {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
 }
 .tableBody {
   width: 100%;
 }
 .nameDayWrapper {
-  display: flex;
+  display: grid;
   justify-content: space-between;
   align-items: center;
+  grid-template-columns: repeat(7, 1fr);
   margin-bottom: 16px;
   font-family: 'Roboto';
   font-style: normal;
@@ -521,8 +522,7 @@ body {
   color: rgba(0, 0, 0, 0.6);
 }
 .nameDay {
-  width: 32px;
-  height: 32px;
+  text-align: center;
 }
 .numberDay {
   width: 32px;
@@ -539,24 +539,32 @@ body {
 }
 .blue {
   position: relative;
+  background: $accent-blue;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
   color: #FFFFFF;
-  &::before {
-    content: '';
-    position: absolute;
-    width: 42px;
-    height: 42px;
-    background: $accent-blue;
-    border-radius: 50%;
-    top: 0;
-    left: 0;
-  }
-  &::after {
-    content: '1';
-    position: absolute;
-    color: #FFFFFF;
-    left: 50%;
-  }
 }
+//.blue {
+//  position: relative;
+//  color: #FFFFFF;
+  //&::before {
+  //  content: '';
+  //  position: absolute;
+  //  width: 42px;
+  //  height: 42px;
+  //  background: $accent-blue;
+  //  border-radius: 50%;
+  //  top: 0;
+  //  left: 0;
+  //}
+  //&::after {
+  //  content: '1';
+  //  position: absolute;
+  //  color: #FFFFFF;
+  //  left: 50%;
+  //}
+//}
 .stat {
   background: $white;
   box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.06);
@@ -818,6 +826,15 @@ td {
 .numberDay {
   border: none;
 }
+.days {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  height: 200px;
+  text-align: center;
+}
+.day {
+  cursor: pointer;
+}
 .last__td {
   padding-right: 24px;
   text-align: right;
@@ -857,7 +874,7 @@ td {
 //MOBILE DEVICE
 @media screen and (max-width: 1085px) {
   .contact-wrapper {
-    padding: 0px;
+    padding: 0;
   }
   .content {
     position: inherit;
@@ -875,11 +892,9 @@ td {
     flex-direction: row;
     justify-content: center;
     align-items: inherit;
-    //margin-bottom: 24px;
     margin-left: 0;
   }
   .stat {
-    //box-shadow: none;
     margin: 24px 0 24px 12px;
   }
   .progres-calendar-wrapper {
@@ -900,16 +915,13 @@ td {
     margin: 24px 12px 0 0;
     width: 100%;
     height: 100vh;
-    //box-shadow: none;
   }
-  .mnu-item__name {
+  .mnu-item__name, .kit,
+  .profile-block {
     display: none;
   }
   .toggle-wrap {
     display: flex;
-  }
-  .profile-block {
-    display: none;
   }
   .profile, .mnu-item  {
     justify-content: center;
