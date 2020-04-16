@@ -12,16 +12,16 @@ const months = ['January', 'February', 'March',
     'July', 'August', 'September',
     'October', 'November', 'December'];
 
-//метод принимающий дату
+// дата
 let date = new Date();
 let day = date.getDate();
 let month = date.getMonth();
 let year = date.getFullYear();
 
 // let selectedDate = date;
-let selectedDay = day;
-let selectedMonth = month;
-let selectedYear = year;
+const selectedDay = day;
+const selectedMonth = month;
+const selectedYear = year;
 
 mthElements.textContent = months[month] + ' ' + year;
 countDayMonth();

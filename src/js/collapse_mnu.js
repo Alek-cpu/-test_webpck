@@ -2,24 +2,22 @@ const sidebar = document.querySelector('.sidebar');
 const toggleSidebar = document.querySelector('.toggle-wrap .toggle');
 const svgColor = document.querySelector('.toggle .fil__svg');
 const profileMnuItem = document.querySelector('nav.mnu');
-let items = profileMnuItem.querySelectorAll('nav.mnu > a > div.mnu-item > div.mnu-item__name');
+const items = profileMnuItem.querySelectorAll('nav.mnu > a > div.mnu-item > div.mnu-item__name');
 const profileContainer = document.querySelector('div.sidebar-container');
-let SetItems = profileContainer.querySelectorAll('div.sidebar-container > div.setItem > div.mnu-item > div.mnu-item__name');
+const SetItems = profileContainer.querySelectorAll('div.sidebar-container > div.setItem > div.mnu-item > div.mnu-item__name');
 const profileInfoDiv = document.querySelector('.profile-block');
-let profileInfoElem = profileInfoDiv.querySelectorAll('.profile-block > .profileTxtElem');
+const profileInfoElem = profileInfoDiv.querySelectorAll('.profile-block > .profileTxtElem');
 const containerSwitch = document.querySelector('.container');
 const sidebarInner = document.querySelector('.profile, .mnu-item');
 const shortName = document.querySelector('div.name span.kit');
 const sidebarInnerCheck = document.querySelector('.sidebar-name-inner');
 
 
-
-
 toggleSidebar.addEventListener('click', toggleChecked);
 
 
 function toggleChecked (e) {
-    console.log('hi')
+
     svgColor.classList.toggle( 'checkedToggle');
     sidebar.classList.toggle('goSidebar');
 
