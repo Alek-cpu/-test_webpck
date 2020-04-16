@@ -46,6 +46,9 @@ body {
   margin-top: 60px;
   margin-left: 256px; }
 
+.containerToggle {
+  margin-left: 80px; }
+
 .sidebar {
   position: fixed;
   left: 0;
@@ -54,7 +57,8 @@ body {
   background: #FFFFFF;
   box-shadow: 6px 0px 18px rgba(0, 0, 0, 0.06);
   height: 100%;
-  padding-top: 60px; }
+  padding-top: 60px;
+  transition: .15s; }
 
 .profile-container {
   border-bottom: 1px solid #EBEFF2;
@@ -103,6 +107,9 @@ body {
   .mnu-item:hover .mnu-item__svg {
     stroke: #109CF1; }
 
+.checkedToggle {
+  fill: #109CF1; }
+
 .setting-wrap {
   display: flex; }
 
@@ -134,6 +141,9 @@ body {
 .sidebar-name-inner {
   width: 290px;
   margin: 0px auto 0px 24px; }
+
+.sidebarInnerCheck {
+  width: 62px; }
 
 .header {
   position: fixed;
@@ -792,6 +802,24 @@ td {
   letter-spacing: 0.01em;
   color: #323C47; }
 
+/*THIS JS*/
+.goSidebar {
+  position: fixed;
+  width: 80px;
+  transition: .2s; }
+
+.sidebarInner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.profileMnuItem {
+  display: none; }
+
+.clearkit {
+  display: none; }
+
 @media screen and (max-width: 1085px) {
   .contact-wrapper {
     padding: 0; }
@@ -1113,8 +1141,6 @@ td {
     line-height: 1.188em;
     letter-spacing: 0.01em;
     color: #334D6E; }
-  .header-text {
-    opacity: 0.5; }
   .info-line {
     font-weight: normal;
     font-size: 0.813em;
@@ -1163,6 +1189,8 @@ td {
 @media screen and (max-width: 974px) {
   .contact-wrapper, .contact {
     padding: 0; }
+  .header-text {
+    display: none; }
   .info-line {
     display: flex;
     flex-wrap: wrap;

@@ -18,7 +18,7 @@ let day = date.getDate();
 let month = date.getMonth();
 let year = date.getFullYear();
 
-let selectedDate = date;
+// let selectedDate = date;
 let selectedDay = day;
 let selectedMonth = month;
 let selectedYear = year;
@@ -34,7 +34,7 @@ preMthElement.addEventListener('click', togglePreMonth);
 
 //function
 function toggleDatePicker (e) {
-    console.log(e.path);
+    // console.log(e.path);
     dateElement.classList.toggle( 'active');
 }
 
