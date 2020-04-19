@@ -820,6 +820,15 @@ td {
 .clearkit {
   display: none; }
 
+.hide {
+  display: none; }
+
+.hovered {
+  background: #D1D8E2; }
+
+.deleted:hover .basket {
+  fill: #F7685B; }
+
 @media screen and (max-width: 1085px) {
   .contact-wrapper {
     padding: 0; }
