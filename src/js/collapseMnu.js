@@ -4,7 +4,7 @@ const svgColor = document.querySelector('.toggle .fil__svg');
 const profileMnuItem = document.querySelector('nav.mnu');
 const items = profileMnuItem.querySelectorAll('nav.mnu > a > div.mnu-item > div.mnu-item__name');
 const profileContainer = document.querySelector('div.sidebar-container');
-const SetItems = profileContainer.querySelectorAll('div.sidebar-container > div.setItem > div.mnu-item > div.mnu-item__name');
+const SetItems = profileContainer.querySelectorAll('.setItem > .mnu-item > .mnu-item__name');
 const profileInfoDiv = document.querySelector('.profile-block');
 const profileInfoElem = profileInfoDiv.querySelectorAll('.profile-block > .profileTxtElem');
 const containerSwitch = document.querySelector('.container');
@@ -12,26 +12,23 @@ const sidebarInner = document.querySelector('.profile, .mnu-item');
 const shortName = document.querySelector('div.name span.kit');
 const sidebarInnerCheck = document.querySelector('.sidebar-name-inner');
 
-
 toggleSidebar.addEventListener('click', toggleChecked);
-
 
 function toggleChecked (e) {
 
     svgColor.classList.toggle( 'checkedToggle');
     sidebar.classList.toggle('goSidebar');
 
-    for (let elem of items) {
+    items.forEach((elem) => {
         elem.classList.toggle('profileMnuItem');
-    }
+    });
 
-    for (let elemSetItem of SetItems) {
+    SetItems.forEach((elemSetItem) => {
         elemSetItem.classList.toggle('profileMnuItem');
-    }
-
-    for (let txtElem of profileInfoElem) {
+    });
+    profileInfoElem.forEach((txtElem) => {
         txtElem.classList.toggle('profileMnuItem');
-    }
+    });
 
     containerSwitch.classList.toggle('containerToggle');
     sidebarInner.classList.toggle('sidebarInner');

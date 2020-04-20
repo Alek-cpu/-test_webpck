@@ -30,7 +30,7 @@ const dDrope = () => {
     const dragDrop = function () {
         console.log('drop');
         cell.classList.remove('hide');
-        cell.appendChild(this);//ячейки принимает в себя
+        cell.appendChild(this);
     };
 
     cell.addEventListener('dragover', dragOver);

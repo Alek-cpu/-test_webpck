@@ -1,5 +1,5 @@
 import "./scss/main.scss";
-import "./js/collapse_mnu.js";
-import "./js/testjsdrop.js";
-import "./js/drag&drop.js";
-import "./js/datepicker.js";
+import "./js/collapseMnu.js";
+import "./js/testDrop.js";
+import "./js/dragAndDrop.js";
+import "./js/datePicker.js";
