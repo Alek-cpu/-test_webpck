@@ -12,7 +12,10 @@ const PATHS = {
 
 module.exports = {
     externals: { paths: PATHS },
-    entry: PATHS.src ,
+    entry: {
+        index: './src/index',
+        contact: './src/contact'
+    },
     output: {
         filename: '[name].js',
         path: path.resolve(__dirname, 'dist'),

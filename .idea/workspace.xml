@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7607dcee-3225-4dcb-99e6-84ba91f2dd66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dist/03523cf578d69fa923226ff457b92d90.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/1c701c9a6b587802e3d0211e89c52f4a.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/Vector.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/Vector1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/Vector2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/Vector3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/Vectors4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/account.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/ar-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/ar-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/attach.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/bell.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/button.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/call.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/colleagues.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/create-task.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/create.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/delete.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/email-l.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/email.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/footer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/green-ecllipse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/gren-mini-ellipse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/header.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/image 2 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/image 2 (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/image 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/image 22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/image 3 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/image 3 (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/image 3 (3).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/image 3 (4).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/image 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/image 4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/image 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/image.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/image4 4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/insert.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/integrations.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/notifications.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/pen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/points.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/red-mini-ellipse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/schedule.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/t.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/tags.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/toggle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/twit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/txt-edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/video.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/www.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/yel-mini-eclipse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/yellow-ellipse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/b59f6a636397975c540983a35a5b22f7.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/dbb97fd982ce1b96b6de90a9f1c2ecaa.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/datePicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/datePicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/testDrop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/testDrop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aowzpDrodBtdLvpepHos1eCEms" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7607dcee-3225-4dcb-99e6-84ba91f2dd66" name="Default Changelist" comment="" />
+      <created>1587415519414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587415519414</updated>
+      <workItem from="1587415523241" duration="170000" />
+      <workItem from="1587415759667" duration="1479000" />
+      <workItem from="1587473219267" duration="856000" />
+      <workItem from="1587518304612" duration="4269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="192" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1587416166965">
+      <screen x="0" y="27" width="1306" height="741" />
+    </state>
+    <state x="192" y="27" width="912" height="741" key="CommitChangelistDialog2/0.27.1306.741@0.27.1306.741" timestamp="1587416166965" />
+    <state x="436" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1587477934578">
+      <screen x="0" y="27" width="1306" height="741" />
+    </state>
+    <state x="436" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1306.741@0.27.1306.741" timestamp="1587477934578" />
+  </component>
+</project>

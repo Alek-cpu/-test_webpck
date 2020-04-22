@@ -829,6 +829,23 @@ td {
 .deleted:hover .basket {
   fill: #F7685B; }
 
+.deleteted-box {
+  cursor: pointer;
+  display: flex;
+  align-items: center; }
+
+.deleteted-box:hover .deletCbx {
+  fill: #F7685B; }
+
+.wrapperSpan {
+  display: flex;
+  justify-content: center; }
+
+.selectedInfo {
+  margin-right: 15%;
+  display: flex;
+  align-items: center; }
+
 @media screen and (max-width: 1085px) {
   .contact-wrapper {
     padding: 0; }

@@ -1,4 +1,3 @@
-const dDrope = () => {
     const cards = document.querySelectorAll('.card');
     const cell = document.querySelector('.drag-drop-wrapper');
 
@@ -42,5 +41,4 @@ const dDrope = () => {
         card.addEventListener('dragend', dragEnd);
         card.addEventListener('drop', dragDrop);
     });
-}
-dDrope();
+

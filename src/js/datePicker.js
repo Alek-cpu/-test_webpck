@@ -55,10 +55,11 @@ function countDayMonth (e) {
     let i = 0;
     let countDays = 31;
 
-    if ( month === 0 || month % 2 === 0 ) {
+    if (month % 2 !== 0 ) {
         countDays = 30;
     }
-    else if (month === 1) countDays = 28;
+    if (month === 1) countDays = 28;
+    if (month === 11) countDays = 31;
 
 
     while ( i < countDays) {
