@@ -2,74 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7607dcee-3225-4dcb-99e6-84ba91f2dd66" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dist/03523cf578d69fa923226ff457b92d90.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1c701c9a6b587802e3d0211e89c52f4a.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/Vector.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/Vector1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/Vector2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/Vector3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/Vectors4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/account.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/ar-left.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/ar-right.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/attach.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/bell.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/button.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/call.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/colleagues.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/create-task.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/create.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/delete.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/email-l.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/email.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/facebook.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/footer.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/green-ecllipse.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/gren-mini-ellipse.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/header.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/image 2 (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/image 2 (2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/image 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/image 22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/image 3 (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/image 3 (2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/image 3 (3).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/image 3 (4).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/image 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/image 4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/image 5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/image.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/image4 4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/insert.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/integrations.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/notifications.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/pen.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/plus.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/points.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/red-mini-ellipse.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/schedule.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/t.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/tags.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/toggle.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/twit.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/txt-edit.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/video.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/www.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/yel-mini-eclipse.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/yellow-ellipse.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/b59f6a636397975c540983a35a5b22f7.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/dbb97fd982ce1b96b6de90a9f1c2ecaa.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/datePicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/datePicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/testDrop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/testDrop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -111,7 +48,8 @@
       <workItem from="1587415523241" duration="170000" />
       <workItem from="1587415759667" duration="1479000" />
       <workItem from="1587473219267" duration="856000" />
-      <workItem from="1587518304612" duration="4269000" />
+      <workItem from="1587518304612" duration="5062000" />
+      <workItem from="1587646250999" duration="2728000" />
     </task>
     <servers />
   </component>
@@ -119,6 +57,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="386" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587648672365">
+      <screen x="0" y="27" width="1306" height="741" />
+    </state>
+    <state x="386" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1306.741@0.27.1306.741" timestamp="1587648672365" />
     <state x="192" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1587416166965">
       <screen x="0" y="27" width="1306" height="741" />
     </state>

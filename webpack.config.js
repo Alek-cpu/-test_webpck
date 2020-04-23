@@ -19,6 +19,7 @@ module.exports = {
     output: {
         filename: '[name].js',
         path: path.resolve(__dirname, 'dist'),
+        publicPath: '/'
     },
     module: {
         rules: [
@@ -67,5 +68,12 @@ module.exports = {
             {from:'./src/img/vectors', to:'./assets'},
             {from:'./src/img/avatar', to:'./assets'},
         ])
-    ]
+    ],
+    devServer: {
+        contentBase: path.join(__dirname, 'dist'),
+        compress: true,
+        port: 3001,
+        stats: 'errors-only'
+    }
+
 };
