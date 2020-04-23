@@ -1,6 +1,9 @@
     const cards = document.querySelectorAll('.card');
     const cell = document.querySelector('.drag-drop-wrapper');
     let buf;
+    let keys = Object.keys(cards); //получаем ключи объекта в виде массива
+    console.log(cards[keys[0]]); // первый элемент
+    console.log(cards[keys[keys.length - 1]]); //последний элемент
 
     const dragStart = function () {
         buf = this;
@@ -18,20 +21,14 @@
     };
 
     const dragDrop = function () {
-
         console.log('droped');
-        if (this.firstChild){
-            this.before(buf)
-        }
-        else if (this === cell.lastChild){
-            this.after(buf)
-        }
-        else if (buf === cell.lastChild){
-            this.before(buf)
-        }
-        else {
-            this.after(buf);
-        }
+
+            if ( this === cards[keys[0]] ) {
+                this.before(buf);
+            }
+            else {
+                this.after(buf);
+            }
 
     };
 
