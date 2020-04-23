@@ -343,11 +343,14 @@ body {
     bottom: -3px;
   }
 }
+.drag-drop {
+  height: 100%;
+}
 .drag-drop-wrapper {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   padding: 0 24px 0 24px;
+  height: 100%;
 }
 .card {
   display: flex;

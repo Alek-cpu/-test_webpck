@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7607dcee-3225-4dcb-99e6-84ba91f2dd66" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/dragAndDrop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/dragAndDrop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/testDrop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/testDrop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +52,8 @@
       <workItem from="1587473219267" duration="856000" />
       <workItem from="1587518304612" duration="5062000" />
       <workItem from="1587646250999" duration="2728000" />
+      <workItem from="1587660742980" duration="1367000" />
+      <workItem from="1587662385407" duration="15867000" />
     </task>
     <servers />
   </component>

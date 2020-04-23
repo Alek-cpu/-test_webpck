@@ -1,7 +1,9 @@
     const cards = document.querySelectorAll('.card');
     const cell = document.querySelector('.drag-drop-wrapper');
+    let buf;
 
     const dragStart = function () {
+        buf = this;
         setTimeout(() => {
             this.classList.add('hide');
         }, 0);
@@ -13,32 +15,32 @@
 
     const dragOver = function (e) {
         e.preventDefault();
-
-        console.log('over');
-    };
-
-    const dragEnter = function () {
-        console.log('enter');
-    };
-
-    const dragLeave = function () {
-        console.log('leave');
-        this.classList.remove('hovered');
     };
 
     const dragDrop = function () {
-        console.log('drop');
-        cell.classList.remove('hide');
-        cell.appendChild(this);
+
+        console.log('droped');
+        if (this.firstChild){
+            this.before(buf)
+        }
+        else if (this === cell.lastChild){
+            this.after(buf)
+        }
+        else if (buf === cell.lastChild){
+            this.before(buf)
+        }
+        else {
+            this.after(buf);
+        }
+
     };
 
-    cell.addEventListener('dragover', dragOver);
-    cell.addEventListener('dragenter', dragEnter);
-    cell.addEventListener('dragleave', dragLeave);
-
-    cards.forEach((card) => {
+    cards.forEach((card, i) => {
         card.addEventListener('dragstart', dragStart);
         card.addEventListener('dragend', dragEnd);
+        card.addEventListener('dragover', dragOver);
         card.addEventListener('drop', dragDrop);
+        card.addEventListener('dragover', dragOver);
     });
+
 
